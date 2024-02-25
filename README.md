@@ -1,0 +1,2 @@
+# starbucks_customer_retention_prediction
+Starbucks Customer Retention Prediction: Customer Segmentation and Predictive Modeling
